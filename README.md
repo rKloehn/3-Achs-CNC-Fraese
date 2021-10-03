@@ -7,7 +7,7 @@ To mill wood, aluminum and steel for future project, the desicion was made to de
 
 ## Work Progress
 ## 1. Create CAD Model 
-#### A CAD model was created in Solidworks. Here, different concepts were first considered. In the end, I decided in favor of the steel body construction.
+A CAD model was created in Solidworks. Here, different concepts were first considered. In the end, I decided in favor of the steel body construction.
 <p align="center">
 	<img src="img/CAD-model.png" width="410">
 </p>
