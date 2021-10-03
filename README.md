@@ -47,7 +47,7 @@ Placement and wiring of all electronic components in the control cabinet.
 The x- and y-axes are aligned with each other and the z-axis was mounted to the carriage of the x-axis. The z-axis is also aligned perpendicular to the x-axis
 <p align="center">
 	<img src="img/ausrichten_2.jpg" width="410">
-	<img src="img/montage_motor_zachse.jpg.jpg" width="410">
+	<img src="img/montage_motor_zachse.jpg" width="410">
 </p>
 
 ## 8. Connecting the motors and first test run
