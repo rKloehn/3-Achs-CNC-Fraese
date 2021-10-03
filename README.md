@@ -37,20 +37,32 @@ Finishing the painting and mounting the ball screw and carriages on the linear g
 	<img src="img/Position_yAchse.jpg" width="410">
 </p>
 
+## 6. Control cabinet 
+Placement and wiring of all electronic components in the control cabinet.
+<p align="center">
+	<img src="img/Schaltschrank.jpg" width="410">
+</p>
 
+## 7. Aligning the x-axis and y-axis and mounting z-axis
+The x- and y-axes are aligned with each other and the z-axis was mounted to the carriage of the x-axis. The z-axis is also aligned perpendicular to the x-axis
+<p align="center">
+	<img src="img/ausrichten_2.jpg" width="410">
+	<img src="img/montage_motor_zachse.jpg.jpg" width="410">
+</p>
 
+## 8. Connecting the motors and first test run
+Motors are connected to the control cabinet using XCT connectors. Limit switches are attached and connected to the axes and by checking the motor current it is determined whether the axes are all running smoothly.
+<p align="center">
+	<img src="img/komplette_fraese.jpg" width="410">
+</p>
 
+## 9. First aluminum test part
+As a first test component, two key fobs were designed in CAD and the milling program was programmed using HSMWorks. A 4mm end mill and a 45° engraving cutter were used for the part. As a first test component, two key fobs were designed in CAD and the milling program was programmed using HSMWorks. A 4mm end mill and a 45° engraving cutter were used for the part. The keychain is a game character from a video game.
 
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+	<img src="img/schluesselanhaenger_1.jpg" width="410">
+	<img src="img/schluesselanhaenger_2.jpg" width="410">
+</p>
 
 
 
